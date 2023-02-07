@@ -1,2 +1,2 @@
 # web-scraping
-Scraping, parsing pet-projects, pyhton based
+Scraping/ parsing pet-projects, pyhton based
